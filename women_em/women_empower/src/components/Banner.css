@@ -1,0 +1,64 @@
+/* Import the FlexSlider CSS */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css');
+
+/* Adjustments for the banner wrapper */
+.banner-wrapper {
+  margin: 0 auto;
+  max-width: 1000px; /* Adjust this width according to your design */
+}
+
+/* Styling for the slides */
+.flexslider .slides {
+  overflow: hidden;
+}
+
+/* Styling for the slide images */
+.flexslider .slides img {
+  width: 100%; /* Ensure images fill the entire slide */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Styling for the slide captions */
+.slide-caption {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  color: #fff; /* White text color */
+  padding: 10px; /* Padding around the caption */
+  position: absolute; /* Position the caption absolutely */
+  bottom: 0; /* Align the caption to the bottom of the slide */
+  left: 0; /* Align the caption to the left of the slide */
+  width: 100%; /* Full width */
+}
+
+/* Styling for the pagination */
+.flex-control-nav {
+  position: absolute; /* Position the pagination */
+  bottom: 20px; /* Adjust vertical position */
+  left: 50%; /* Align to the center */
+  transform: translateX(-50%); /* Center the pagination */
+}
+
+/* Styling for the pagination items */
+.flex-control-nav li {
+  display: inline-block; /* Display pagination items horizontally */
+  margin: 0 5px; /* Adjust spacing between pagination items */
+}
+
+/* Styling for the pagination links */
+.flex-control-nav li a {
+  display: block; /* Ensure pagination links are block-level elements */
+  width: 10px; /* Set width of pagination links */
+  height: 10px; /* Set height of pagination links */
+  background-color: #ccc; /* Set default background color */
+  border-radius: 50%; /* Make pagination links circular */
+  text-indent: -9999px; /* Hide text content of pagination links */
+}
+
+/* Styling for active pagination item */
+.flex-control-nav li a.flex-active {
+  background-color: #000; /* Change background color of active pagination item */
+}
+
+/* Styling for the directional navigation */
+.flex-direction-nav {
+  display: none; /* Hide directional navigation by default */
+}

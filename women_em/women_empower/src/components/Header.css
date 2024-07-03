@@ -1,0 +1,69 @@
+/* Global styles */
+
+/* Apply a background color to the entire page */
+body {
+  background-color: #2979c8; /* Light gray background */
+  font-family: Arial, sans-serif; /* Use a generic sans-serif font */
+}
+
+/* Style the header */
+.navbar {
+  background-image: linear-gradient(to right, hsl(39, 100%, 69%), #ffc176); /* Set background gradient */
+  padding: 10px 0; /* Increase padding for better spacing on smaller screens */
+  min-height: 60px; /* Ensure a minimum height for the header */
+}
+
+/* Navbar Brand */
+.navbar-brand {
+  color: #fff; /* Set brand color to white */
+  font-weight: bold; /* Make brand text bold */
+  font-size: 1.5rem; /* Increase font size for better visibility on smaller screens */
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+  color: #000; /* Set link color to black */
+  font-weight: bold; /* Make link text bold */
+  text-decoration: none; /* Remove default underline */
+  transition: color 0.3s; /* Add transition for smooth color change */
+  font-size: 1rem; /* Adjust font size for better readability */
+}
+
+/* Navbar Links Hover */
+.navbar-nav .nav-link:hover {
+  color: #f8f9fa; /* Change link color on hover */
+}
+
+/* Navbar Links Active (Underline Effect) */
+.navbar-nav .nav-link.active {
+  text-decoration: underline; /* Add underline effect */
+}
+
+/* Navbar Dropdown */
+.navbar-nav .nav-item .dropdown-menu {
+  background-color: #f8f9fa; /* Set dropdown menu background color */
+}
+
+/* Buttons */
+.btn-outline-primary,
+.btn-outline-danger {
+  color: #fff; /* Set button text color to white */
+  border-color: #fff; /* Set button border color to white */
+  font-size: 1rem; /* Adjust font size for better readability */
+  padding: 10px 20px; /* Increase padding for better touch interaction */
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-danger:hover,
+.btn-outline-danger:focus {
+  color: #f8f9fa; /* Change button color on hover/focus */
+  border-color: #f8f9fa; /* Change button border color on hover/focus */
+}
+
+/* Media query for minimum header height */
+@media screen and (min-width: 768px) {
+  .navbar {
+    min-height: 80px; /* Ensure a minimum height for the header on screens larger than 768px */
+  }
+}

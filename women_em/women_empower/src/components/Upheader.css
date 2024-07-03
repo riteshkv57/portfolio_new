@@ -1,0 +1,78 @@
+/* Header.css */
+/* HeaderWrapper.css */
+
+.wrapper.header-wrapper {
+    background-color: #ffffff; /* Blue background color */
+    color: black; /* White text color */
+    height: 9rem;
+    padding: 40px; /* Add some padding */
+    display: flex; /* Use flexbox layout */
+    align-items: center; /* Vertically center items */
+    /* justify-content: space-between; Space between the left and right items */
+  }
+  
+  .wrapper.header-wrapper .logo-text {
+    font-size: 30px; /* Adjust font size */
+    text-align: center; /* Center align text */
+  }
+  
+
+
+.wrapper {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 10px 0; /* Add some padding */
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+  
+  .header__logo{
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+
+
+  
+  .left-logo,
+  .right-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .left-logo img {
+    /* height: 40px; Adjust logo height */
+    margin-right: 10px; /* Add spacing between logos */
+  }
+  
+  .right-logo a {
+    margin-right: 10px; /* Add spacing between logos */
+  }
+  
+  .toggle-nav-bar {
+    display: none; /* Hide toggle button by default */
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column; /* Stack elements vertically on small screens */
+      align-items: flex-start; /* Align items to the start */
+    }
+  
+    .left-logo,
+    .right-logo {
+      margin-top: 10px; /* Add spacing between logo sections */
+    }
+  
+    .toggle-nav-bar {
+      display: block; /* Display toggle button on small screens */
+    }
+  }
+  

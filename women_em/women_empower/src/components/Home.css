@@ -1,0 +1,14 @@
+.home{
+  /* padding: 100 auto; */
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 6rem;
+  text-align: center;
+  height: 56.8vh;
+}
+
+h1, p {
+  text-align: center;
+}
+
+  
