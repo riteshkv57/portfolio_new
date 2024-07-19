@@ -1,0 +1,169 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Thunderapi.png",
+            "title": "Thunderapi-TOOL",
+            "bodyText": "- Api tool made using react js\n -  Used to check the endpoints of frontend and backend links.\n - Different themes are available",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Thunderapi-TOOL"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://thunderapi-tool.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/crave-mern-app.png",
+            "title": "CRAVE MERN APP",
+            "bodyText": "- Mern-stack food delivery application with login feature.\n - Features include order tracking, and payment integration",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/CRAVE_MERN_APP"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://crave123.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/hospital.png",
+            "title": "Hospital Management Website",
+            "bodyText": "- Prescription management\n - Appointment scheduling\n - Emergency alert button",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Hospital-website"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://sriveda-hospital.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/real-time chat.png",
+            "title": "Real-time CHAT app",
+            "bodyText": "- Real-time chat application built with Socket.IO\n - Send and receive messages.\n - Customized user experience",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Live-Chat-app"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://localhost:3000/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio-old.png",
+            "title": "Old Portfolio",
+            "bodyText": "- Developed a personal portfolio\n - Showcases projects and skills\n - Features a responsive design for various devices",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Portfolio-website"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://portfol-website.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/kursi.png",
+            "title": "Modern Kursi",
+            "bodyText": "- Stylish modern chair available in various colors\n - Features an 'Add to Cart' feature for easy purchasing.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Modern-chair"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://modern-kursi123.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/tictactoe.png",
+            "title": "Tic Tac Toe GAME",
+            "bodyText": "- Built with Javascript.\n - Features an animation that plays when a player wins\n - Includes Dark themes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Tic-Tac_Toe"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://tic-tactoe123.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/women-empower.png",
+            "title": "Sakti-Sankalp",
+            "bodyText": "- Provides educational and motivational content\n - Features an emergency alert button for urgent situations",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/sakti-sankalp"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://stackblitz.com/edit/vitejs-vite-t5x7gm?file=README.md"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/netflix.png",
+            "title": "NETFLIX Clone",
+            "bodyText": "- A Netflix clone built with React.js\n - Features user authentication, movies list, and trailers\n - Utilizes TMDb API for movie data",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/netflix_clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://75nrxs.csb.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/temp-converter.png",
+            "title": "Temperature Converter",
+            "bodyText": "- A tool for converting temperatures between Celsius, Kelvin, and Fahrenheit.\n- Provides real-time conversion results as you input values.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Temperature-converter"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://temp-converter123.netlify.app/"
+                }
+            ]
+        },
+        {
+            "image" : "images/projects/Real-time clock.png",
+            "title": "Real-time Clock",
+            "bodyText": "- Real-time clock feature showing current time\n - Displays updated time every second\n - Users can see live time in the application",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/riteshkv57/Real-Time-Clock"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://realtimeclock123.netlify.app/"
+                }
+            ]
+        }
+    ]
+}

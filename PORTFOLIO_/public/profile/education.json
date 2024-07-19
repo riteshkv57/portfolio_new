@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Sep 2025",
+            "cardTitle": "B.Tech, Computer Science And Engineering",
+            "cardSubtitle":"Institute of Engineering And Management Kolkata",
+            "cardDetailedText": "CGPA - 8.66",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2019-2021",
+            "cardTitle": "12th",
+            "cardSubtitle":"Pragya Bharti Public School",
+            "cardDetailedText": "Marks - 81%"
+        },
+        {
+            "title": "2005-2019",
+            "cardTitle": "10th",
+            "cardSubtitle":"Pragya Bharti Public School",
+            "cardDetailedText": "Marks - 95%"
+        }
+    ]
+}

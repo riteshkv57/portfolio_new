@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ritesh-verma-a59352247/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/riteshkv57"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ritesh0057@gmail.com"
+        }
+    ]
+}

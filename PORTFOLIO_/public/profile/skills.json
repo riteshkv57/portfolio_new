@@ -1,0 +1,68 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "items" : [
+     
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "CPP"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MYSQL"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "Javascript"
+                }
+        ]},
+        {
+            "items" : [
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MONGO-DB"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                }
+            ]
+        },
+        {
+            "items": [
+                {
+                    "icon": "images/skills/react-native.png",
+                    "title": "REACT_NATIVE"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "PHOTOSHOP"
+                }
+            ]
+    }
+]}
